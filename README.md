@@ -4,4 +4,4 @@ A library of well crafted UI Components made just for you, with full control on 
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Tailored-UI/Tailored-UI/blob/main/Banner.png)
